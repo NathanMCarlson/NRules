@@ -7,6 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="NRules" Version="0.9.0" />
+    <PackageReference Include="NRules.Fluent" Version="0.9.0" />
+    <PackageReference Include="NRules.RuleModel" Version="0.9.0" />
     <PackageReference Include="VSSDK.DebuggerVisualizers" Version="12.0.4" />
     <PackageReference Include="VSSDK.DebuggerVisualizers.12" Version="12.0.4" />
     <PackageReference Include="VSSDK.IDE.12" Version="12.0.4" />
